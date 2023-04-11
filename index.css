@@ -53,6 +53,7 @@ p {
 }
 
 #input{
+    padding:20px;
     width: 640px;
     height: 100%;
     font-size: 15px;

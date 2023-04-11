@@ -54,7 +54,8 @@ p {
 }
 
 #input{
-    padding:20px;
+    
+    padding:5px;
     width: 640px;
     height: 100%;
     font-size: 15px;
